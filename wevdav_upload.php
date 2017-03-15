@@ -1,14 +1,13 @@
 #!/usr/bin/php
 <?php
 
-	#################################################
-	#	Name: WebDav Recursive Upload                 #
-	#	Description: Uploads files and directories    #
-	#				 to a remote WebDav machine             #
-	#				 recursively					                  #
-	#	Author: Rehmat Alam							              #
-	#	Website: https://rehmat.works				          #
-	#################################################
+	#########################################################
+	#	Name: WebDav Recursive Upload                 	#
+	#	Description: Uploads files and directories    	#
+	#	to a remote WebDav machine recursively	      	#
+	#	Author: Rehmat Alam				#
+	#	Website: https://rehmat.works			#
+	#########################################################
 
 	/* Editable part starts */
 	
